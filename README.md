@@ -4,6 +4,10 @@ CCN Bonding Pool 合约0xBB6731b6669ffAa3ff0fAb7c858ac2A91dFE6632，质押人的
 
 由于在CCN后台无法设置低于1%的Referrer，于是将所有的1.4%先分配给0xb495Fa90C6Dbe6CD07d7ca52a04CF145572B0246，再从该钱包地址按一定比例分配给所有的质押人。
 
+#### 总质押
+
+53514.10583
+
 #### 质押量
 > 0xb8Ea033Ef4B5EE34CFb07B5DD6045cC20d173af3 5000
 > 
